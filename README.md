@@ -1,2 +1,2 @@
 Random web content\
-Edit index.html to add your URL
+Edit the [index](https://github.com/webroulette/webroulette.github.io/blob/master/index.html) to add your URL
